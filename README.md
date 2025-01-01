@@ -1,10 +1,13 @@
 # qibla_task
 
-A new Flutter project.
+app work for android for current
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+ download, after open the project cmd write:-
+flutter clean
+flutter pub get
+flutter run
 
 A few resources to get you started if this is your first Flutter project:
 
